@@ -1,0 +1,6 @@
+C:\KeyboardMouseSimulator\KeyboardMouseSimulator\KeyboardMouseSimulator\obj\Debug\KeyboardMouseSimulator.csprojResolveAssemblyReference.cache
+C:\KeyboardMouseSimulator\KeyboardMouseSimulator\KeyboardMouseSimulator\bin\Debug\KeyboardMouseSimulator.exe
+C:\KeyboardMouseSimulator\KeyboardMouseSimulator\KeyboardMouseSimulator\bin\Debug\KeyboardMouseSimulator.pdb
+C:\KeyboardMouseSimulator\KeyboardMouseSimulator\KeyboardMouseSimulator\obj\Debug\KeyboardMouseSimulator.exe
+C:\KeyboardMouseSimulator\KeyboardMouseSimulator\KeyboardMouseSimulator\obj\Debug\KeyboardMouseSimulator.pdb
+C:\KeyboardMouseSimulator\KeyboardMouseSimulator\KeyboardMouseSimulator\bin\Debug\model.txt
