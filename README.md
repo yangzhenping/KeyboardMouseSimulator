@@ -11,9 +11,9 @@ This is a Keyboard and Mouse Simulator on Windows, which is a program coding wit
 
 1. Create a file 'model.txt' under same directory with current application.
 
-2. Edit model.txt with Keyboard or Mouse actions, each action a line, and the format is <actionname>###<actionvalue>
+2. Edit model.txt with Keyboard or Mouse actions, each action a line, and the format is actionname###actionvalue
 
-<actionname> can be below values:
+actionname can be below values:
 ```
 LeftClick
 单击
@@ -31,7 +31,7 @@ Input
 Sleep
 延迟
 ```
-<actionvalue> can be below work with <actionname> values:
+actionvalue can be below work with actionname values:
 ```
 LeftClick###473,472
 单击###473,472
